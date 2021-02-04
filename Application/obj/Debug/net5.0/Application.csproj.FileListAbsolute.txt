@@ -1,0 +1,17 @@
+D:\webbold\Project\Social\Application\bin\Debug\net5.0\Application.deps.json
+D:\webbold\Project\Social\Application\bin\Debug\net5.0\Application.dll
+D:\webbold\Project\Social\Application\bin\Debug\net5.0\ref\Application.dll
+D:\webbold\Project\Social\Application\bin\Debug\net5.0\Application.pdb
+D:\webbold\Project\Social\Application\bin\Debug\net5.0\Domain.dll
+D:\webbold\Project\Social\Application\bin\Debug\net5.0\Persistence.dll
+D:\webbold\Project\Social\Application\bin\Debug\net5.0\Domain.pdb
+D:\webbold\Project\Social\Application\bin\Debug\net5.0\Persistence.pdb
+D:\webbold\Project\Social\Application\obj\Debug\net5.0\Application.csprojAssemblyReference.cache
+D:\webbold\Project\Social\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\webbold\Project\Social\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+D:\webbold\Project\Social\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+D:\webbold\Project\Social\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+D:\webbold\Project\Social\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+D:\webbold\Project\Social\Application\obj\Debug\net5.0\Application.dll
+D:\webbold\Project\Social\Application\obj\Debug\net5.0\ref\Application.dll
+D:\webbold\Project\Social\Application\obj\Debug\net5.0\Application.pdb

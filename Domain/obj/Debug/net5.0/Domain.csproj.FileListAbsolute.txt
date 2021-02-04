@@ -1,0 +1,12 @@
+D:\webbold\Project\Social\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\webbold\Project\Social\Domain\bin\Debug\net5.0\Domain.dll
+D:\webbold\Project\Social\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\webbold\Project\Social\Domain\bin\Debug\net5.0\Domain.pdb
+D:\webbold\Project\Social\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+D:\webbold\Project\Social\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\webbold\Project\Social\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\webbold\Project\Social\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\webbold\Project\Social\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\webbold\Project\Social\Domain\obj\Debug\net5.0\Domain.dll
+D:\webbold\Project\Social\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\webbold\Project\Social\Domain\obj\Debug\net5.0\Domain.pdb
